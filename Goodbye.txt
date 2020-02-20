@@ -1,1 +1,2 @@
 print ("Goodbye world")
+print ("You were too cruel")
